@@ -1,0 +1,7 @@
+C:\Users\nwh15\source\repos\BranchAssignment\BranchAssignment\bin\Debug\BranchAssignment.exe.config
+C:\Users\nwh15\source\repos\BranchAssignment\BranchAssignment\bin\Debug\BranchAssignment.exe
+C:\Users\nwh15\source\repos\BranchAssignment\BranchAssignment\bin\Debug\BranchAssignment.pdb
+C:\Users\nwh15\source\repos\BranchAssignment\BranchAssignment\obj\Debug\BranchAssignment.csproj.AssemblyReference.cache
+C:\Users\nwh15\source\repos\BranchAssignment\BranchAssignment\obj\Debug\BranchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nwh15\source\repos\BranchAssignment\BranchAssignment\obj\Debug\BranchAssignment.exe
+C:\Users\nwh15\source\repos\BranchAssignment\BranchAssignment\obj\Debug\BranchAssignment.pdb
