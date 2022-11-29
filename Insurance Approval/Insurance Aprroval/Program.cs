@@ -10,20 +10,30 @@ namespace Insurance_Aprroval
     {
         static void Main(string[] args)
         {
+            //age question
             Console.WriteLine("What is your age?");
             int number = Convert.ToInt32(Console.ReadLine());
             bool ageNum = number > 15;
 
+            //dui question
             Console.WriteLine("Have you ever had a DUI?");
             string dui = Console.ReadLine();
 
+            //speeding ticket question
             Console.WriteLine("How many speeding tickets do you have?");
             int number2 = Convert.ToInt32(Console.ReadLine());
-            bool stNum = number2 < 3;
+            bool speedticketNum = number2 < 3;
 
+            //qualified answer
             Console.WriteLine("Qualified?");
-            string result = ageNum & !dui & stNum ? "True" : "False";
-            Console.WriteLine(result);
+            if (ageNum && dui == "false" && speedticketNum)
+            {
+                Console.WriteLine("true");
+            }
+            else
+            {
+                Console.WriteLine("false");
+            }
             Console.ReadLine();
         }
     }

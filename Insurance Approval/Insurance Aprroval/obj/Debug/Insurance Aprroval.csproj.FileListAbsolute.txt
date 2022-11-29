@@ -12,3 +12,10 @@ C:\Users\nwh15\source\repos\Insurance Approval\Insurance Aprroval\obj\Debug\Insu
 C:\Users\nwh15\source\repos\Insurance Approval\Insurance Aprroval\obj\Debug\Insurance Aprroval.csproj.CoreCompileInputs.cache
 C:\Users\nwh15\source\repos\Insurance Approval\Insurance Aprroval\obj\Debug\Insurance Aprroval.exe
 C:\Users\nwh15\source\repos\Insurance Approval\Insurance Aprroval\obj\Debug\Insurance Aprroval.pdb
+C:\Users\nwh15\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Insurance Approval\Insurance Aprroval\bin\Debug\Insurance Aprroval.exe.config
+C:\Users\nwh15\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Insurance Approval\Insurance Aprroval\bin\Debug\Insurance Aprroval.exe
+C:\Users\nwh15\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Insurance Approval\Insurance Aprroval\bin\Debug\Insurance Aprroval.pdb
+C:\Users\nwh15\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Insurance Approval\Insurance Aprroval\obj\Debug\Insurance Aprroval.csproj.AssemblyReference.cache
+C:\Users\nwh15\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Insurance Approval\Insurance Aprroval\obj\Debug\Insurance Aprroval.csproj.CoreCompileInputs.cache
+C:\Users\nwh15\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Insurance Approval\Insurance Aprroval\obj\Debug\Insurance Aprroval.exe
+C:\Users\nwh15\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Insurance Approval\Insurance Aprroval\obj\Debug\Insurance Aprroval.pdb
