@@ -27,7 +27,7 @@ class Program
         Console.WriteLine("Please enter a number from 0 to 3\n");
         //User input
         int input2 = int.Parse(Console.ReadLine());
-        //if statment for numbers large then the index amount
+        //if statment for numbers larger then the index amount
         if (input2 < 3)
         {
             Console.WriteLine("You picked: " + numArray[input2]);
