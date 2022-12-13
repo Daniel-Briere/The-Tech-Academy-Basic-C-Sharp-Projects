@@ -1,0 +1,7 @@
+C:\Users\nwh15\source\repos\Date_TimeAssignment\Date_TimeAssignment\bin\Debug\Date_TimeAssignment.exe.config
+C:\Users\nwh15\source\repos\Date_TimeAssignment\Date_TimeAssignment\bin\Debug\Date_TimeAssignment.exe
+C:\Users\nwh15\source\repos\Date_TimeAssignment\Date_TimeAssignment\bin\Debug\Date_TimeAssignment.pdb
+C:\Users\nwh15\source\repos\Date_TimeAssignment\Date_TimeAssignment\obj\Debug\Date_TimeAssignment.csproj.AssemblyReference.cache
+C:\Users\nwh15\source\repos\Date_TimeAssignment\Date_TimeAssignment\obj\Debug\Date_TimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nwh15\source\repos\Date_TimeAssignment\Date_TimeAssignment\obj\Debug\Date_TimeAssignment.exe
+C:\Users\nwh15\source\repos\Date_TimeAssignment\Date_TimeAssignment\obj\Debug\Date_TimeAssignment.pdb
