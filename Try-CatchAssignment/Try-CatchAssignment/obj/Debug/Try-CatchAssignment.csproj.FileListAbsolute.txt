@@ -1,0 +1,7 @@
+C:\Users\nwh15\source\repos\Try-CatchAssignment\Try-CatchAssignment\bin\Debug\Try-CatchAssignment.exe.config
+C:\Users\nwh15\source\repos\Try-CatchAssignment\Try-CatchAssignment\bin\Debug\Try-CatchAssignment.exe
+C:\Users\nwh15\source\repos\Try-CatchAssignment\Try-CatchAssignment\bin\Debug\Try-CatchAssignment.pdb
+C:\Users\nwh15\source\repos\Try-CatchAssignment\Try-CatchAssignment\obj\Debug\Try-CatchAssignment.csproj.AssemblyReference.cache
+C:\Users\nwh15\source\repos\Try-CatchAssignment\Try-CatchAssignment\obj\Debug\Try-CatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nwh15\source\repos\Try-CatchAssignment\Try-CatchAssignment\obj\Debug\Try-CatchAssignment.exe
+C:\Users\nwh15\source\repos\Try-CatchAssignment\Try-CatchAssignment\obj\Debug\Try-CatchAssignment.pdb
