@@ -21,10 +21,10 @@ namespace Date_TimeAssignment
             //Convert the input to an integer
             double parsedInput = double.Parse(input);
 
-            //To do add X to current time, X being the number the user entered
+            //Add X to current time, X being the number the user entered
             DateTime newTime = currentTime.AddHours(parsedInput);
 
-            //To do print the result to the console
+            //Print the result to the console
             Console.WriteLine(newTime);
             Console.ReadLine();
         }
