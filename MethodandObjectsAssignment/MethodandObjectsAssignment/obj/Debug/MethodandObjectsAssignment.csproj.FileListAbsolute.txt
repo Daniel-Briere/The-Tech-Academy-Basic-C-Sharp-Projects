@@ -1,0 +1,7 @@
+C:\Users\nwh15\source\repos\MethodandObjectsAssignment\MethodandObjectsAssignment\bin\Debug\MethodandObjectsAssignment.exe.config
+C:\Users\nwh15\source\repos\MethodandObjectsAssignment\MethodandObjectsAssignment\bin\Debug\MethodandObjectsAssignment.exe
+C:\Users\nwh15\source\repos\MethodandObjectsAssignment\MethodandObjectsAssignment\bin\Debug\MethodandObjectsAssignment.pdb
+C:\Users\nwh15\source\repos\MethodandObjectsAssignment\MethodandObjectsAssignment\obj\Debug\MethodandObjectsAssignment.csproj.AssemblyReference.cache
+C:\Users\nwh15\source\repos\MethodandObjectsAssignment\MethodandObjectsAssignment\obj\Debug\MethodandObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nwh15\source\repos\MethodandObjectsAssignment\MethodandObjectsAssignment\obj\Debug\MethodandObjectsAssignment.exe
+C:\Users\nwh15\source\repos\MethodandObjectsAssignment\MethodandObjectsAssignment\obj\Debug\MethodandObjectsAssignment.pdb
